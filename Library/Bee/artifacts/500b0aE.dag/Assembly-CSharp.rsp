@@ -349,6 +349,7 @@
 "Assets/Scripts/BossAsterisk.cs"
 "Assets/Scripts/BossStar.cs"
 "Assets/Scripts/BulletDestroy.cs"
+"Assets/Scripts/ButtonSciFiHover.cs"
 "Assets/Scripts/CoinDisplay.cs"
 "Assets/Scripts/DestroyGameObject.cs"
 "Assets/Scripts/Enemy2Movement.cs"
