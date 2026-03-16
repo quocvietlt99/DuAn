@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A5D1580F-81B3-83C9-CD20-B8DA92BB84CC}</ProjectGuid>
+    <ProjectGuid>{9E7736DC-AAEC-0576-2264-FB5475C62825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -906,23 +906,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
-      <Project>{068669E7-FE5F-EBFB-C12F-C87927C5476E}</Project>
+      <Project>{903471A8-E1D5-A4E7-29AA-7FE6EA0902DA}</Project>
       <Name>Unity.Timeline.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Postprocessing.Runtime.Player.csproj">
-      <Project>{9C86617A-2C80-A6C5-F234-43964CA3B071}</Project>
+      <Project>{9F98E96C-982E-4F87-5FAF-CFE86B97F1C8}</Project>
       <Name>Unity.Postprocessing.Runtime.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.AI.Navigation.Player.csproj">
-      <Project>{958ED870-C94F-D329-55A6-04471A62124E}</Project>
+      <Project>{C3F8B933-08F8-8348-5B25-235FDC9D5DF3}</Project>
       <Name>Unity.AI.Navigation.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Player.csproj">
-      <Project>{F09481A2-84BA-A150-9531-E064EBFB8AB9}</Project>
+      <Project>{7EB2A346-91BE-95E6-E3E7-73303C0C9F0C}</Project>
       <Name>Unity.TextMeshPro.Player</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{6715A066-B48F-B046-E154-F9F615505931}</Project>
+      <Project>{418E43E2-9B74-B0D3-B0D0-1340B43BA61D}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>

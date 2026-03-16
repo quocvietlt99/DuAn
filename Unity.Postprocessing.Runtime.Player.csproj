@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{9C86617A-2C80-A6C5-F234-43964CA3B071}</ProjectGuid>
+    <ProjectGuid>{9F98E96C-982E-4F87-5FAF-CFE86B97F1C8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Unity.Postprocessing.Runtime</AssemblyName>
@@ -881,7 +881,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{6715A066-B48F-B046-E154-F9F615505931}</Project>
+      <Project>{418E43E2-9B74-B0D3-B0D0-1340B43BA61D}</Project>
       <Name>UnityEngine.UI.Player</Name>
     </ProjectReference>
   </ItemGroup>
